@@ -1,0 +1,14 @@
+{
+  "name": "html_css_boilplate",
+  "version": "1.0.0",
+  "description": "just a test tool to create files for a web page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "mcastrucci",
+  "license": "ISC"
+}
